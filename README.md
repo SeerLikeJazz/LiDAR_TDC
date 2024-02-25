@@ -1,6 +1,8 @@
 # LiDAR_TDC
 Time-of-flight (ToF) measurement using pulse lasers
 
+![](/Image/diagram.png)  
+
 ### 24.02.15
 
 | Signal | Pin|
